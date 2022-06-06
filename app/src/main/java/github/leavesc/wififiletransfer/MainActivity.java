@@ -15,7 +15,7 @@ import androidx.core.app.ActivityCompat;
  * @Github：https://github.com/leavesC
  */
 public class MainActivity extends BaseActivity {
-
+    private static final String TAG = "MainActivity";
     private static final int CODE_REQ_PERMISSIONS = 665;
 
     @Override
